@@ -1647,7 +1647,7 @@ class TikTokApi:
 
     def __add_url_params__(self) -> str:
         query = {
-            "aid": 1988,
+            "aid": 1284,
             "app_name": "tiktok_web",
             "device_platform": "web_mobile",
             "region": self.region or "US",
